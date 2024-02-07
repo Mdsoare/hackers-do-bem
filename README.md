@@ -1,6 +1,6 @@
 <h1>
     <a href="https://hackersdobem.org.br/">
-    <img align="center" width="100px" src="https://hackersdobem.org.br/assets/json/uploads/HACKERSDOBEM_LOGO_RGB_PRINCIPAL_POSITIVA_1_8c655bcacf.svg"></a>
+    <img align="center" width="100px" src="./img/logo.svg"></a>
     <span><b>Programa Hackers do Bem</b></span>
 </h1>
 
